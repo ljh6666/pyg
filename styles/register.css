@@ -1,0 +1,104 @@
+.logo{
+	height:65px;
+	margin-top:20px;
+	border-bottom:2px solid #c81623;
+}
+/*from*/
+.register{
+	width:1200px;
+	height:545px;
+	margin:20px auto;
+	border:1px solid #dfdfdf;
+}
+.bt{
+	height:40px;
+	margin-top:20px;
+	background-color:#ececec;
+}
+.bt h1{
+	font-size:20px;
+	font-weight:400;
+	line-height:40px;
+	float:left;
+	padding-left:10px;
+}
+.bt p{
+	font-size:12px;
+	line-height:40px;
+	float:right;
+	padding-right:10px;
+}
+.bt p a{
+	font-size:12px;
+	color:#c81623
+}
+
+
+.from{
+	width:350px;
+	height:400px;
+	margin:50px auto;
+	font-size:15px;
+}
+.from div{
+	width:335px;
+	height:40px;
+	margin:10px auto;
+}
+.text input{
+	width:240px;
+	height:35px;
+}
+.from lable{
+	display:inline-block;
+	width:90px;
+	height:35px;
+	text-align:right;
+	line-height:35px;
+}
+.xy{
+	text-align:right;
+}
+.xy span{
+	font-size:12px;
+	padding-right:35px;
+	vertical-align:bottom;
+}
+.xy input{
+	vertical-align:bottom;
+}
+.wc_register input{
+	width:180px;
+	height:35px;
+	background-color:#c81623;
+	border:#c81623;
+	font-size:20px;
+	color:#ffffff;
+	margin-left:78px;
+	margin-top:30px;
+
+}
+/*footer*/
+.footer_w{
+	height:100px;
+	margin-top:50px;
+}
+.footer_w ul{
+	width:900px;
+	margin:auto;
+}
+.footer_w ul li{
+	display:inline;
+	font-size:10px;
+	padding-right:10px;
+	color:#666666;
+}
+.footer_w ul li a{
+	color:#666666;
+}
+.footer_w p{
+	text-align:center;
+	font-size:10px;
+	color:#666666;
+	margin-top:10px;
+}

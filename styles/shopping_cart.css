@@ -1,0 +1,45 @@
+.my_sp{
+	height:1200px;
+	margin-top:50px;
+	background-color:pink;
+}'
+.my_sp td:nth-of-type(1){
+	width:55px
+}
+.my_sp td:nth-of-type(2){
+	width:565px
+}
+.my_sp td:nth-of-type(3){
+	width:60px
+}
+.my_sp td:nth-of-type(4){
+	width:240px
+}
+.my_sp td:nth-of-type(5){
+	width:110px
+}
+.my_sp td:nth-of-type(6){
+	width:170px
+}
+.my_sp caption{
+	font-size:15px;
+	color:#c81523;
+	text-align:left;
+	margin-bottom:25px;
+}
+.zhead tr{
+	height:35px;
+	font-size:12px;
+	background-color:#f5f5f5;
+	border:1px solid #dddddd;
+	vertical-align:middle;
+}
+.zhead tr td{
+	text-align:center;
+}
+.my_sp input{
+	vertical-align:bottom;
+}
+.my_sp tbody td:nth-of-type(1){
+	width:25px
+}

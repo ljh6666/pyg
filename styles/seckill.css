@@ -1,0 +1,133 @@
+nav{
+	width:100%;
+	height:50px;
+	border-bottom:3px solid #b1191a;
+	margin-top:10px;
+}
+.nav ul{
+	height:45px;
+}
+.nav ul li{
+	display:inline;
+	font-size:10px;
+	line-height:50px;
+	padding:0px 30px 0px 30px;
+}
+.nav ul li a{
+	color:#262626
+}
+.nav ul li a:hover{
+	color:#b1191a;
+}
+.weight a{
+	font-weight:900;
+	font-size:15px;
+}
+.ms_sj{
+	height:1840px;
+}
+.ms_sj>div{
+	width:298px;
+	height:444px;
+	float:left;
+	border:1px solid #ffffff;
+}
+.ms_sj>div:hover{
+	border:1px solid #b1191a;
+}
+.attr{
+	width:270px;
+	height:40px;
+	margin:auto;
+}
+.attr em{
+	font-size:10px;
+}
+.price{
+	height:30px;
+	margin-left:15px;
+	margin-top:5px;
+}
+.price strong{
+	font-size:20px;
+	color:#b1191a;
+}
+.price s{
+	font-size:15px;
+	color:#b3b3b3;
+	padding-left:5px;
+}
+.sold{
+	height:30px;
+	margin-left:15px;
+}
+.sold span{
+	font-size:10px;
+}
+.sold span i{
+	color:#b1191a;
+	font-weight:800;
+}
+.status_bar{
+	display:inline-block;
+	width:155px;
+	height:13px;
+	border-radius:6.5px;
+	border:1px solid #b1191a;
+	margin:0 10px 0 10px;
+}
+.status_bar i{
+	display:inline-block;
+	width:135px;
+	height:14px;
+	background-color:#b1191a;
+	border-radius:7px 0 0 7px;
+	margin-left:-1px;
+}
+.operate{
+	height:40px;
+	margin-top:5px;
+	background-color:#b1191a;
+}
+.operate a{
+	display:block;
+	width:80px;
+	font-size:15px;
+	color:#ffffff;
+	line-height:40px;
+	margin:auto;
+}
+/*翻页*/
+.fy{
+	text-align:center;
+}
+.fy a{
+	display:inline-block;
+	width:32px;
+	height:32px;
+	border:1px solid #ccc;
+	background-color:f7f7f7;
+	text-align:center;
+	line-height:32px;
+	text-decoration: none;
+	color:#333;
+}
+.fy .left,
+.fy .rigth{
+	width:92px;
+	height:32px;
+}
+/*返回顶部*/
+.fixed{
+	width:68px;
+	height:138px;
+	position:fixed;
+	top:70%;
+	right:5%;
+	
+}
+.fixed div{
+	width:68px;
+	height:68px;
+	margin-top:1px;
+}
